@@ -1,4 +1,4 @@
-Hi, I’m Justyna Król, IT Researcher at Luxoft Poland.
+Hi, I’m Justyna Król, IT Reruiter at Luxoft Poland.
 I’m looking for inventive programmers with interesting personalities - mainly C++ and Java developers.
 
 📫 Feel free to contact me: justyna.krol@dxc.com
